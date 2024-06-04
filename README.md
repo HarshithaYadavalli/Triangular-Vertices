@@ -5,9 +5,9 @@ analyzed over a triangular grid.
 
 ● It will be checked whether the points are the vertices of
 one of the following acceptable figures:
---Triangle
---Parallelogram
---Hexagon
+ - Triangle
+ - Parallelogram
+ - Hexagon
 
 ● A figure is acceptable if it meets the following conditions:
 1. Each side of the figure must coincide with an edge in the grid.
